@@ -1,7 +1,13 @@
 # app-dev
 My first repository
 
-| Favorite Anime | Ratings |
+| Favorite Anime | Desc |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| JOJO| ORA ORA ORA |
+| Attack on Titan | TATAKE!! |
+| One Piece | Pirate king |
+| Gintama | Silver Balls |
+| Jujutsu Kaisen | BROTHAA |
+| Death Note | big brain |
+
+~~The world is flat.~~
