@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-| Syntax | Description |
+| Favorite Anime | Ratings |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
