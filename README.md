@@ -10,8 +10,7 @@ My first repository
 | Jujutsu Kaisen | BROTHAA |
 | Death Note | big brain |
 
-~~The world is flat.~~
+~~AppdevPls~~
 
-# one
-## two
-### three
+# JOJO
+> Hō… mukatte kuru no ka…… nigezu ni kono DIO ni chikadzuite kuru no ka
